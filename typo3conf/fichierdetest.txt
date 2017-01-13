@@ -6,4 +6,4 @@ a
 lalla
 
 Lignes d'avancement du bug
-Le bug asocié qu'on va  supprimer
+Le bug asocié qu'on va ici du texte a supprimer supprimer
