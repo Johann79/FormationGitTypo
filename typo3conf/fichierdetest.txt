@@ -6,4 +6,4 @@ a
 lalla
 
 Lignes d'avancement du bug
-Lz bug asocié qu'"on va& supprimer
+Le bug asocié qu'on va& supprimer
